@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [welcome to my lobby] (../20190323_134055.jpg)
