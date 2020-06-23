@@ -1,4 +1,4 @@
--cats
--dogs
--birds
--otters
+- cats
+- dogs
+- birds
+- otters
